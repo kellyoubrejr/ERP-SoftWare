@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\小凯利\\MySelf-backend\\MySelf-backend\\MySelf-backend.csproj": {}
+    "E:\\HTTX-ERP\\MySelf-backend\\MySelf-backend\\MySelf-backend.csproj": {}
   },
   "projects": {
-    "E:\\小凯利\\MySelf-backend\\MySelf-backend\\MySelf-backend.csproj": {
+    "E:\\HTTX-ERP\\MySelf-backend\\MySelf-backend\\MySelf-backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\小凯利\\MySelf-backend\\MySelf-backend\\MySelf-backend.csproj",
+        "projectUniqueName": "E:\\HTTX-ERP\\MySelf-backend\\MySelf-backend\\MySelf-backend.csproj",
         "projectName": "MySelf-backend",
-        "projectPath": "E:\\小凯利\\MySelf-backend\\MySelf-backend\\MySelf-backend.csproj",
+        "projectPath": "E:\\HTTX-ERP\\MySelf-backend\\MySelf-backend\\MySelf-backend.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\小凯利\\MySelf-backend\\MySelf-backend\\obj\\",
+        "outputPath": "E:\\HTTX-ERP\\MySelf-backend\\MySelf-backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
