@@ -1,0 +1,35 @@
+# 依赖目录
+node_modules/
+
+# 日志文件
+*.log
+npm-debug.log*
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 临时文件
+*.tmp
+*.temp
+
+# 环境变量文件（如果使用）
+.env
+.env.local
+.env.*.local
+
+# 构建输出（如果使用构建工具）
+dist/
+build/
+
+# 测试报告
+coverage/
+
+# 浏览器缓存
+.cache/

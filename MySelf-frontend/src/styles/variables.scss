@@ -1,0 +1,29 @@
+// CSS Variables
+:root {
+    --primary: #6366f1;
+    --primary-light: #818cf8;
+    --secondary: #ec4899;
+    --secondary-light: #f472b6;
+    --accent: #8b5cf6;
+    --accent-light: #a78bfa;
+    --dark: #0f172a;
+    --dark-light: #1e293b;
+    --gray-100: #f1f5f9;
+    --gray-200: #e2e8f0;
+    --gray-300: #cbd5e1;
+    --gray-400: #94a3b8;
+    --gray-500: #64748b;
+    --gray-600: #475569;
+    --gray-700: #334155;
+    --gray-800: #1e293b;
+    --white: #ffffff;
+    --gradient-primary: linear-gradient(135deg, var(--primary), var(--secondary));
+    --gradient-secondary: linear-gradient(135deg, var(--accent), var(--secondary));
+    --gradient-dark: linear-gradient(135deg, var(--dark), var(--dark-light));
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+    --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+    --transition-all: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    --transition-transform: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
